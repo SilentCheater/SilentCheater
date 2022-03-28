@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 - I'm a computer science student at Technical University of Cluj-Napoca
 - I'm currently working on projects in Java and C for university
